@@ -119,4 +119,4 @@
 
     `Selesai terima kasih`
 
-    [saweria](https://saweria.co/adamwebdev)
+    [saweria](https://saweria.co/adamwebdev)# praktikum.5
